@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int main()
+void main()
 {
     int num, sum, rem;
 
@@ -25,5 +25,4 @@ int main()
         }
     }
 
-    return 0;
 }
