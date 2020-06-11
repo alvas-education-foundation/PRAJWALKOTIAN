@@ -1,5 +1,3 @@
-Write a Java Program to Segregate Even and Odd numbers .
-
 import java.io.*; 
   
 public class   Segregate_even_odd
